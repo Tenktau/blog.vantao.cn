@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://lwantao.github.io/sitemap.xml
+Sitemap: https://tenktau.github.io/sitemap.xml
