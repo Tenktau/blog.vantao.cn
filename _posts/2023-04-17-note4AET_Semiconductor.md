@@ -2,7 +2,7 @@
 title:  模电学习笔记：常用半导体器件（不定期更新中）
 date: 2023-04-17 +0800
 author: <vantao>
-categories: [基础理论学习, 模拟电子技术基础]
+categories: [Basic Subject, Analog Electronics]
 tags: [模电]
 math: true
 ---
