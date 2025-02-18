@@ -1,14 +1,12 @@
 ---
 title:  模电学习笔记：常用半导体器件（不定期更新中）
+description: 模电基础薄弱，需要从头学习一遍。借助费曼学习法原理，以输出倒逼输入。
 date: 2023-04-17 +0800
 author: <vantao>
 categories: [Basic Subject, Analog Electronics]
 tags: [模电]
 math: true
 ---
-
-> 模电基础薄弱，需要从头学习一遍。借助[费曼学习法](https://zhuanlan.zhihu.com/p/88209825)原理，以输出倒逼输入。
-> 若有不正确的地方，欢迎在评论区指出，感激不尽！
 
 ## BJT 相关
 
