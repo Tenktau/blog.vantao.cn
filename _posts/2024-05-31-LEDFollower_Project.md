@@ -1,5 +1,6 @@
 ---
-title: 利用 OpenMV 实现 AprilTag 跟踪以及通过串口通讯控制 Arduino 驱动 LED 灯带
+title: 基于 Vision Board 的“LEDFollower”项目分享
+description: 利用 OpenMV 实现 AprilTag 跟踪以及通过串口通讯控制 Arduino 驱动 LED 灯带
 date: 2024-05-31 +0800
 author: <vantao>
 categories: [Development,Embedded]
