@@ -1,1 +1,1 @@
-const swconf = { cacheName: 'chirpy-1739889970',resources: [ '/blog.vantao.cn/assets/css/jekyll-theme-chirpy.css', '/blog.vantao.cn/', '/blog.vantao.cn/categories/', '/blog.vantao.cn/tags/', '/blog.vantao.cn/archives/', '/blog.vantao.cn/about/', ], interceptor: {paths: [ ],urlPrefixes: [ ] }, purge: false };
+const swconf = { cacheName: 'chirpy-1739891599',resources: [ '/assets/css/jekyll-theme-chirpy.css', '/', '/categories/', '/tags/', '/archives/', '/about/', ], interceptor: {paths: [ ],urlPrefixes: [ ] }, purge: false };

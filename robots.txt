@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://blog.vantao.cn/blog.vantao.cn/sitemap.xml
+Sitemap: https://tenktau.github.io/sitemap.xml
