@@ -2,9 +2,8 @@
 title: RevyOS 学习日志
 description: 本篇文章旨在分享本人通过 Lichee Pi 4A (16+128 GB) 学习 RevyOS 过程中的心得。
 date: 2025-02-18 +0800
-author: <vantao>
 categories: [Development,Embedded]
-tags: [RevyOS,LicheePi4A]
+tags: [RevyOS,LicheePi4A,开发板,嵌入式]
 ---
 
 ## 介绍

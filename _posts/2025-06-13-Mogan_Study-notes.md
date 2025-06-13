@@ -2,7 +2,6 @@
 title: 「墨干理工套件」初次尝试编译过程笔记
 description: 本篇文章旨在分享本人初次尝试编译墨干理工套件过程中的心得。
 date: 2025-06-13 +0800
-author: <vantao>
 categories: [Development,Software]
 tags: [Mogan,Linux]
 ---

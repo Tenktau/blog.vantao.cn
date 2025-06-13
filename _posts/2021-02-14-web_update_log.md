@@ -2,7 +2,6 @@
 title: 本站点更新日志
 description: 请注意：原先使用的 lwantaoo.xyz 域名已在弃用后被他人恶意抢注，与本人无任何关联。
 date: 2021-02-14 +0800
-author: <vantao>
 categories: [misc]
 tags: [站点更新日志]
 ---

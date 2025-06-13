@@ -2,9 +2,8 @@
 title: 基于 Vision Board 的“LEDFollower”项目分享
 description: 利用 OpenMV 实现 AprilTag 跟踪以及通过串口通讯控制 Arduino 驱动 LED 灯带
 date: 2024-05-31 +0800
-author: <vantao>
 categories: [Development,Embedded]
-tags: [站点更新日志]
+tags: [开发板,机器视觉,嵌入式]
 ---
 
 > **（2024-06-28 更新）** 在开放源码（详见文末）之外，我也制作了一个[简单的介绍视频](https://b23.tv/lZ4OD92 "简单的介绍视频")放在 Bilibili，欢迎对项目和具体代码实现思路感兴趣的朋友们前去查看！若有需要改进之处也恳请指正！

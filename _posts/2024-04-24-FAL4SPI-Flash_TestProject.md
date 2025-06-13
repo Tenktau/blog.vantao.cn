@@ -2,9 +2,8 @@
 title: RA8D1 Vision Board 实现 FAL 同时调用片上以及外挂 Flash
 description: 记录本人在参与 Vision Board 创客营活动（第一阶段）过程中所产出的内容
 date: 2024-04-24 +0800
-author: <vantao>
 categories: [Development,Embedded]
-tags: [站点更新日志]
+tags: [开发板,机器视觉,嵌入式]
 ---
 
 - 使用软件：
