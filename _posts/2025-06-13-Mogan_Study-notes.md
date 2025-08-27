@@ -6,15 +6,15 @@ categories: [Development,Software]
 tags: [Mogan,Linux]
 ---
 
-> 虚拟机软件：VirtualBox 7.0.10 r158379 (Qt5.15.2)  
-> 客户机：Debian 12.11.0 (Linux 6.1.0)  
-> 宿主机：Window 10（版本号：2009）
+> **虚拟机软件**：VirtualBox 7.0.10 r158379 (Qt5.15.2)  
+> **客户机**：Debian 12.11.0 (Linux 6.1.0)  
+> **宿主机**：Window 10（版本号：2009）
 
-## 1.1 编译环境配置
+## 1 编译环境配置
 
 在 VirtualBox 中安装完 Debian 之后，根据 Mogan 官方教程进行了编译环境的配置，在这个过程中遇到的问题记录、解决方案与参考资料如下：
 
-### 1.1.1 无法添加第三方源
+### 1.1 无法添加第三方源
 
 首先，在执行 `sudo add-apt-repository ppa:xmake-io/xmake` 命令后产生如下报错：
 
