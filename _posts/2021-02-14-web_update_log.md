@@ -8,11 +8,11 @@ tags: [站点更新日志]
 
 ## 站点概况
 
-表格内容更新于 `2025.02.19 (UTC+8)`
+表格内容更新于 `2025.09.09 (UTC+8)`
 
-|框架|主题|部署方式|域名解析|
-|:--:|:--:|:--:|:--:|
-|[Jekyll](https://jekyllrb.com/)|[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) by cotes2020|GitHub Pages|blog.vantao.cn|
+|框架|主题|部署方式|域名解析|订阅方式|
+|:--:|:--:|:--:|:--:|:--:|
+|[Jekyll](https://jekyllrb.com/)|[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) by cotes2020|GitHub Pages|blog.vantao.cn|[Atom 链接](https://blog.vantao.cn/feed.xml)|
 
 ## 版本更新历史
 
@@ -29,7 +29,6 @@ tags: [站点更新日志]
   - 为博客引入了 RSS，默认为 atom 类型，也同时生成了 rss2 类型
 - **Patch 9** (08-25) 将博客从 Hexo 迁移至 Hugo
 - **Patch 10** (12-02) 将博客从 Hugo 迁移至 Jekyll
-  - ~~我真是个花心大萝卜（~~
 
 ### 2022
 
@@ -40,4 +39,4 @@ tags: [站点更新日志]
 ### 2021
 
 - **Patch 1** (02-14) 基于 Hexo，托管于 Gitee 平台的个人博客项目诞生
-- **Patch 2** (08-10) 为了将项目转移至 GitHub 平台
+- **Patch 2** (08-10) 将项目转移至 GitHub 平台
