@@ -1,0 +1,70 @@
+/* sidebar */
+
+$sidebar-width: 260px !default; /* the basic width */
+$sidebar-width-large: 300px !default; /* screen width: >= 1650px */
+$sb-btn-gap: 0.8rem !default;
+$sb-btn-gap-lg: 1rem !default;
+
+/* other framework sizes */
+
+$topbar-height: 3rem !default;
+$search-max-width: 200px !default;
+$footer-height: 5rem !default;
+$footer-height-large: 6rem !default; /* screen width: < 850px */
+$main-content-max-width: 1250px !default;
+$radius-sm: 6px !default;
+$radius-lg: 10px !default;
+$back2top-size: 2.75rem !default;
+
+/* syntax highlight */
+
+$code-font-size: 0.85rem !default;
+$code-header-height: 2.25rem !default;
+$code-dot-size: 0.75rem !default;
+$code-dot-gap: 0.5rem !default;
+$code-icon-width: 1.75rem !default;
+
+/* fonts */
+
+/* self-hosted Noto Serif SC */
+
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSerifSC-Regular.woff2') format('woff2'),
+       url('/assets/fonts/NotoSerifSC-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSerifSC-Bold.woff2') format('woff2'),
+       url('/assets/fonts/NotoSerifSC-Bold.woff') format('woff');
+}
+
+/* self-hosted Noto Serif */
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSerif-Regular.woff2') format('woff2'),
+       url('/assets/fonts/NotoSerif-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSerif-Bold.woff2') format('woff2'),
+       url('/assets/fonts/NotoSerif-Bold.woff') format('woff');
+}
+
+$font-family-base: 'Noto Serif', 'Noto Serif SC', 'Songti SC', 'SimSun', serif !default;
+$font-family-heading: 'Noto Serif', 'Noto Serif SC', 'Songti SC', 'SimSun', serif !default;
