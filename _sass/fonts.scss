@@ -1,0 +1,37 @@
+/* self-hosted Noto Sans SC */
+
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSansSC-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSansSC-Bold.woff') format('woff');
+}
+
+/* self-hosted Noto Serif */
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSerif-Regular.woff2') format('woff2'),
+       url('/assets/fonts/NotoSerif-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/NotoSerif-Bold.woff2') format('woff2'),
+       url('/assets/fonts/NotoSerif-Bold.woff') format('woff');
+}
