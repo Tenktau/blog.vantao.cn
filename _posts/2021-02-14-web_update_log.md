@@ -16,6 +16,11 @@ tags: [站点更新日志]
 
 ## 版本更新历史
 
+### 2026
+
+- **Patch 12** (03-06) 在 Patch 11 的基础上，明确 `Build and deployment Source` 为 `GitHub Action` 而不是 `a branch`。
+  - 这困扰了我自己好久…（挠头）
+
 ### 2025
 
 - **Patch 11** (02-19) 将部署方式更改为 `GitHub Action` + `GitHub Pages`
