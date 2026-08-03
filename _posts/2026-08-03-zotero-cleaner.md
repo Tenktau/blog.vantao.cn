@@ -12,6 +12,8 @@ tags: [LLM, Zotero, 效率工具]
 
 这件事让我对“和 LLM 一起写代码”有了一点新的体会，顺手记录一下。
 
+![demo](./assets/img/zotero-cleaner-demo.png)
+
 ## 痛点
 
 我的 Zotero 资料库这些年攒下了不少附件，而我的「下载」文件夹是一个无情的收件箱：论文随手下载，归档进 Zotero 之后，下载文件夹里那份永远留在原地。
